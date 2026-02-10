@@ -20,7 +20,11 @@ redump 的版本 \
 但這些不影響劇情的解讀。
 個人有重頭打過1次。可完整過關。
 
+## 俢正工具 WinIPS 下載
+https://www.romhacking.net/utilities/953/
 
+
+## 實際遊玩畫面
 ![開頭畫面](介紹1.png)
 
 ![開頭畫面](介紹2.png)
