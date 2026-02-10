@@ -7,7 +7,7 @@ syscard3.pce md5 38179df8f4ac870017db21ebcbf53114\
 用 syscard3.ips 更新加入繁體中文的字庫
 
 Kagami no Kuni no Legend (Japan) (Track 2).bin \
-md5 15d6de9ddf59390255407461f7c7ea8b
+md5 e9ba086ac9b9ed71277c99ca77ecbc04
 redump 的版本 \
 用 Kagami no Kuni no Legend (Japan) (Track 2).ips 更新。
 
